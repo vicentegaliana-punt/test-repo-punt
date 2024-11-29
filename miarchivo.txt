@@ -1,1 +1,2 @@
 pues esta es la primera línea del archivo miarchivo.txt
+esta es la segunda línea del archivo miarchivo.txt añadida desde github vgaliana@puntsistemes
